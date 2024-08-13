@@ -1,0 +1,6 @@
+airflow_multi_dagrun
+apache-airflow-providers-postgres
+apache-airflow-providers-apache-kafka
+parameterized
+kafka-python
+six==1.16.0
